@@ -21,7 +21,7 @@ hr {
   margin-bottom: 20px;
 }
 
-.carousel-inner img {
+.carousel-inner .main-banner img {
 	height: 400px !important;
 	width: 100% !important;
 }
