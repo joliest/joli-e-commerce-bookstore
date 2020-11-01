@@ -45,6 +45,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 		</dependency>
 		<!-- end hibernate support -->
+		
+		<!-- security -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		<!-- end security -->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
