@@ -9,4 +9,5 @@ public interface UserRepository extends CrudRepository<User, Long> {
 	 * will look for username column in the table (magic)
 	 */
 	User findByUsername(String username);
+	User findByEmail(String email);
 }
